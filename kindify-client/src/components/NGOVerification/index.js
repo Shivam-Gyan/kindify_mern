@@ -1,0 +1,1 @@
+export { default as NGOVerification } from './NGOVerification'; 
